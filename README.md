@@ -27,7 +27,6 @@ Let's connect and chat about all things tech and web developing - I'd love to he
 
   <p align="center">
     </br></br>
-
       <p><b>Github Stats</b></p>
       <img src="https://github-readme-stats.vercel.app/api?username=rzkyfhrzi21&theme=midnight-purple"></br>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=rzkyfhrzi21&theme=midnight-purple"></br></br>
@@ -40,76 +39,46 @@ Let's connect and chat about all things tech and web developing - I'd love to he
 </details>
 
 <h1>Projects 💻</h1>
-<!-- <h1 align="center">Projects</h1> -->
 <table bordercolor="#66b2b2">
-  
+  <!-- SETIAP TR BISA DIISI DENGAN DUA PROJECT KALIAN -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Foodies</h3>
+      <h3 align="center">LinkTree</h3>
         <br />
-        <a target="_blank" href="foodies.samimunir2002.repl.co/">
-            <img src="Images/Foodies.png" width="100%" alt="Foodies"/>
+        <a target="_blank" href="linktree.rzkyfhrzi21.repl.co/">
+            <img src="img/itc-dj-3.jpg" width="100%" alt="LinkTree"/>
         </a>
         <br />
         <p align="center">
           <br>
-  <a href="https://github.com/samipak458/Foodies-Restaurant" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="foodies.samimunir2002.repl.co/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
-  </a>
+          <a href="https://github.com/rzkyfhrzi21/app-linktree" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+          </a>  
+          <a href="linktree.rzkyfhrzi21.repl.co/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
+          </a>
       </p>
-        <p><strong>Html, CSS, BootStrap & Javascript</strong> - Foodies :  A restaurant website. You can place orders and keep track of it.</p>
+        <p><strong>Html & CSS</strong> - LinkTree :  Sebuah Website ShortLink. Tempat Dimana Kamu Bisa Menaruh Beberapa Link Termasuk Akun Sosial Media Kamu Sekaligus.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Mera Pakistan</h3>
+      <h3 align="center">Main Yuk</h3>
         <br />
-      <a target="_blank" href="https://merapakistan.samimunir2002.repl.co/">
-            <img src="Images/Tourist.png" width="100%"  alt="Tourist"/>
+        <a target="_blank" href="main-yuk.rzkyfhrzi21.repl.co">
+            <img src="img/itc-dj-3.jpg" width="100%" alt="Main Yuk"/>
         </a>
         <br />
-        <p align="center">
-   <br>
-  <a href="https://merapakistan.samimunir2002.repl.co/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Html, CSS & Javascript</strong> - Mera Pakistan : A tourist guide to Pakistan.</p>
-    </td>
-  </tr>
-  
-    <td width="50%" valign="top">
-      <h3 align="center">Portfolio</h3>
-      <br />
-        <a target="_blank" href="https://sami.samimunir2002.repl.co/">
-          <img src="https://user-images.githubusercontent.com/52650290/200867908-d001e295-b3ef-49cb-b535-d4a166f0a641.png" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
         <p align="center">
           <br>
-  <a href="https://sami.samimunir2002.repl.co/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
-  </a>
+          <a href="https://github.com/rzkyfhrzi21/main-yuk" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+          </a>  
+          <a href="main-yuk.rzkyfhrzi21.repl.co" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
+          </a>
       </p>
-        <p><strong>HTML5, CSS3, Bootstrap & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>Html, CSS & JS</strong> - MainYuk :  Sebuah Website Iseng. Project Iseng 'Main Yuk' dengan tombol 'Tidak' yang akan berpindah-pindah tempat saat diklik.</p>
     </td>
-   <td width="50%" valign="top">
-      <h3 align="center">Tic Tac Toe</h3>
-      <br />
-        <a target="_blank" href="https://tictactoe-game.samimunir2002.repl.co/">
-          <img src="Images/TicTacToeGame.png" width="100%" alt="Tic Tac Toe"/>
-        </a>
-      <br />
-        <p align="center">
-          <br>
-  <a href="https://tictactoe-game.samimunir2002.repl.co/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Tic-tac-toe is a classic two-player game that, if both players play their best, will always finish in a tie. The game is also known as Xs and Os or noughts and crosses.</p>
-    </td>
-  </tr>   
+  </tr>  
 </table>
 
 # ⚙️ GitHub Analytics
@@ -118,7 +87,7 @@ Let's connect and chat about all things tech and web developing - I'd love to he
   <tr>
        <p><b>Profile Views</b></p>
         <img src="https://profile-counter.glitch.me/%7Brzkyfhrzi21%7D/count.svg"></br></br>
-        
+
   <td><img src="https://github-readme-stats.vercel.app/api?username=rzkyfhrzi21&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rizky Fahrezi" />
     
   <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rzkyfhrzi21&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rizky Fahrezi" /></td>
@@ -130,6 +99,7 @@ Let's connect and chat about all things tech and web developing - I'd love to he
 # 📈 Contribution Graph
 
 [![Rizky Fahrezi github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rzkyfhrzi21&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rzkyfhrzi21&bg_color=242424&color=ffffff&line=57a0ff&point=ff6161&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
