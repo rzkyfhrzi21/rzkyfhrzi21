@@ -25,10 +25,9 @@ Let's connect and chat about all things tech and web developing - I'd love to he
 <details>
   <summary>More ⚡</summary>
 
-    <p align="center">
+  <p align="center">
     </br></br>
-    <p><b>Profile Views</b></p>
-        <img src="https://profile-counter.glitch.me/%7Brzkyfhrzi21%7D/count.svg"></br></br>
+
       <p><b>Github Stats</b></p>
       <img src="https://github-readme-stats.vercel.app/api?username=rzkyfhrzi21&theme=midnight-purple"></br>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=rzkyfhrzi21&theme=midnight-purple"></br></br>
@@ -117,7 +116,9 @@ Let's connect and chat about all things tech and web developing - I'd love to he
 
   <table>
   <tr>
-   
+       <p><b>Profile Views</b></p>
+        <img src="https://profile-counter.glitch.me/%7Brzkyfhrzi21%7D/count.svg"></br></br>
+        
   <td><img src="https://github-readme-stats.vercel.app/api?username=rzkyfhrzi21&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rizky Fahrezi" />
     
   <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rzkyfhrzi21&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rizky Fahrezi" /></td>
