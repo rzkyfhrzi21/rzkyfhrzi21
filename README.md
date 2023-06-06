@@ -22,20 +22,12 @@ Let's connect and chat about all things tech and web developing - I'd love to he
 [![My Skills](https://skillicons.dev/icons?i=replit)](https://replit.com/@rzkyfhrzi21/)
 
 <div align="center">
+
 <details>
-  <summary>More ⚡</summary>
+<summary><b>-_-</b></summary>
 
-  <p align="center">
-    </br></br>
-      <p><b>Github Stats</b></p>
-      <img src="https://github-readme-stats.vercel.app/api?username=rzkyfhrzi21&theme=midnight-purple"></br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rzkyfhrzi21&theme=midnight-purple"></br></br>
-    </p>
+![rickroll](https://www.icegif.com/wp-content/uploads/rickroll-icegif-4.gif)
 
-  <details>
-    <summary><b>-_-</b></summary>
-    ![rickroll](https://www.icegif.com/wp-content/uploads/rickroll-icegif-4.gif)
-  </details>
 </details>
 
 <h1>Projects 💻</h1>
@@ -98,7 +90,6 @@ Let's connect and chat about all things tech and web developing - I'd love to he
 
 # 📈 Contribution Graph
 
-[![Rizky Fahrezi github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rzkyfhrzi21&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rzkyfhrzi21&bg_color=242424&color=ffffff&line=57a0ff&point=ff6161&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
@@ -108,4 +99,4 @@ Let's connect and chat about all things tech and web developing - I'd love to he
 [![An image of @rzkyfhrzi21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rzkyhxr21)](https://holopin.io/@rzkyhxr21)
 
 <h2 align="left">Support My Work:</h2>
-<p><a href="https://saweria.co/rzkyfhrzi21"> <img align="left" src="https://pustakabukubekas.files.wordpress.com/2021/09/sawer.png" height="50" width="210" alt="rzkyfhrzi21" /></a></p><br><br>
+<p><a href="https://saweria.co/rzkyfhrzi21" target="_blank"><img align="left" src="https://pustakabukubekas.files.wordpress.com/2021/09/sawer.png" height="50" width="210" alt="rzkyfhrzi21" /></a></p><br><br>
