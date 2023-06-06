@@ -35,7 +35,7 @@ Let's connect and chat about all things tech and web developing - I'd love to he
 
   <details>
     <summary><b>-_-</b></summary>
-    [![rickroll](https://www.icegif.com/wp-content/uploads/rickroll-icegif-4.gif)]
+    ![rickroll](https://www.icegif.com/wp-content/uploads/rickroll-icegif-4.gif)
   </details>
   </div>
 </details>
@@ -43,6 +43,6 @@ Let's connect and chat about all things tech and web developing - I'd love to he
 <div align="center">
 
 <p><b>Holopin Badges</b></p>
-[![An image of @rzkyfhrzi21's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.me/rzkyhxr21)](https://www.holopin.io/@rzkyhxr21)
+![An image of @rzkyfhrzi21's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.me/rzkyhxr21)(https://www.holopin.io/@rzkyhxr21)
 
 </div>
