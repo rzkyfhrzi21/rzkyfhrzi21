@@ -5,7 +5,12 @@
 <img align="right" src="https://i.imgur.com/840b0PX.gif" width="329">
 <p align="left">Haloo! I'm Rizky Fahrezi, a high school student majoring in software engineering at <a href="#">SMK Swadhipa 2 Natar</a>. I'm passionate about staying ahead of the curve when it comes to the latest technologies and spend my days breaking and creating code. Currently, I am a proud core team member of <a href="#">UNIX</a> and an active member of the <a href="#">Kodingkeun Community</a></a> chapter.
 
-When I'm not knee-deep in tech work, I like to unwind by playing Mobile Legends, gaming with my friends, or spending quality time with my furry companions. As an advocate for cybersecurity, I am always looking for new ways to protect people's online lives from the dangers of cybercrime.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 Let's connect and chat about all things tech and web developing - I'd love to hear from you!</br>
 
@@ -53,7 +58,7 @@ Let's connect and chat about all things tech and web developing - I'd love to he
         <p><strong>Html & CSS</strong> - LinkTree :  Sebuah Website ShortLink. Tempat Dimana Kamu Bisa Menaruh Beberapa Link Termasuk Akun Sosial Media Kamu Sekaligus.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Main Yuk</h3>
+      <h3 align="center">MainYuk</h3>
         <br />
         <a target="_blank" href="main-yuk.rzkyfhrzi21.repl.co">
             <img src="img/itc-dj-3.jpg" width="100%" alt="Main Yuk"/>
@@ -68,7 +73,7 @@ Let's connect and chat about all things tech and web developing - I'd love to he
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
           </a>
       </p>
-        <p><strong>Html, CSS & JS</strong> - MainYuk :  Sebuah Website Iseng. Project Iseng 'Main Yuk' dengan tombol 'Tidak' yang akan berpindah-pindah tempat saat diklik.</p>
+        <p><strong>Html, CSS & JS</strong> - MainYuk :  Sebuah Website Iseng. Project 'Main Yuk' dengan tombol 'Tidak' yang akan berpindah-pindah tempat saat diklik.</p>
     </td>
   </tr>  
 </table>
@@ -78,7 +83,7 @@ Let's connect and chat about all things tech and web developing - I'd love to he
   <table>
   <tr>
   <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/%7Brzkyfhrzi21%7D/count.svg"></br></br>
+  <img src="https://profile-counter.glitch.me/rzkyfhrzi21/count.svg"></br></br>
 
   <td><img src="https://github-readme-stats.vercel.app/api?username=rzkyfhrzi21&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rizky Fahrezi" />
     
