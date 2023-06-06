@@ -40,9 +40,142 @@ Let's connect and chat about all things tech and web developing - I'd love to he
   </div>
 </details>
 
+<h1>Projects 💻</h1>
+<!-- <h1 align="center">Projects</h1> -->
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Foodies</h3>
+        <br />
+        <a target="_blank" href="foodies.samimunir2002.repl.co/">
+            <img src="Images/Foodies.png" width="100%" alt="Foodies"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/samipak458/Foodies-Restaurant" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="foodies.samimunir2002.repl.co/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Html, CSS, BootStrap & Javascript</strong> - Foodies :  A restaurant website. You can place orders and keep track of it.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Mera Pakistan</h3>
+        <br />
+      <a target="_blank" href="https://merapakistan.samimunir2002.repl.co/">
+            <img src="Images/Tourist.png" width="100%"  alt="Tourist"/>
+        </a>
+        <br />
+        <p align="center">
+   <br>
+  <a href="https://merapakistan.samimunir2002.repl.co/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Html, CSS & Javascript</strong> - Mera Pakistan : A tourist guide to Pakistan.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Candy Store</h3>
+      <br />
+        <a target="_blank" href="https://candystore.samimunir2002.repl.co/">
+          <img src="Images/Candy.png" width="100%" alt="Candy"/>
+        </a>
+      <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/samipak458/CandyStore" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://candystore.samimunir2002.repl.co/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Candy Store : I created a responsive website called “Candy” where you can see various products (Chocolates and different types of candies). You can place an order.</p>
+    </td>
+<td width="50%" valign="top">
+      <h3 align="center">Fitness Club</h3>
+        <br />
+        <a target="_blank" href="https://fitnessclub.samimunir2002.repl.co/">
+          <img src="Images/Fitness.png" width="100%" alt="Fitness Club"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/samipak458/Gym-Website" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://fitnessclub.samimunir2002.repl.co/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3 & Javascript</strong> - Fitness Club : This is user-friendly website where you can see details about gym, trainers, facility, class schedule and monthly packages.</p>
+    </td>
+  </tr>
+
+   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Portfolio</h3>
+      <br />
+        <a target="_blank" href="https://sami.samimunir2002.repl.co/">
+          <img src="https://user-images.githubusercontent.com/52650290/200867908-d001e295-b3ef-49cb-b535-d4a166f0a641.png" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+          <br>
+  <a href="https://sami.samimunir2002.repl.co/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, Bootstrap & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+   <td width="50%" valign="top">
+      <h3 align="center">Tic Tac Toe</h3>
+      <br />
+        <a target="_blank" href="https://tictactoe-game.samimunir2002.repl.co/">
+          <img src="Images/TicTacToeGame.png" width="100%" alt="Tic Tac Toe"/>
+        </a>
+      <br />
+        <p align="center">
+          <br>
+  <a href="https://tictactoe-game.samimunir2002.repl.co/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Tic-tac-toe is a classic two-player game that, if both players play their best, will always finish in a tie. The game is also known as Xs and Os or noughts and crosses.</p>
+    </td>
+  </tr>   
+</table>
+
+# ⚙️ GitHub Analytics
+
+  <table>
+  <tr>
+   
+<td><img src="https://github-readme-stats.vercel.app/api?username=rzkyfhrzi21&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rizky Fahrezi" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rzkyfhrzi21&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rizky Fahrezi" /></td>
+  </tr>
+</table>
+
 <div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rzkyfhrzi21&theme=dark" alt="Samiullah" /></p>
+  </div>
 
-<p><b>Holopin Badges</b></p>
-![An image of @rzkyfhrzi21's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.me/rzkyhxr21)(https://www.holopin.io/@rzkyhxr21)
+# 📈 Contribution Graph
 
-</div>
+[![Rizky Fahrezi github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rzkyfhrzi21&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ </div>
+
+# 🏆 HacktoberFest 2022 Badges
+
+[![An image of @rzkyfhrzi21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rzkyhxr21)](https://holopin.io/@rzkyhxr21)
+
+<h2 align="left">Support My Work:</h2>
+<p><a href="https://saweria.co/rzkyfhrzi21"> <img align="left" src="https://pustakabukubekas.files.wordpress.com/2021/09/sawer.png" height="50" width="210" alt="rzkyfhrzi21" /></a></p><br><br>
