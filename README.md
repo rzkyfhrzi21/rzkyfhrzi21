@@ -3,25 +3,23 @@
 # 🚀 About Me
 
 <img align="right" src="https://i.imgur.com/840b0PX.gif" width="329">
-<p align="left">Haloo! I'm Rizky Fahrezi, a cybersecurity enthusiast and computer science undergraduate at <a href="#">Usman Institute of Technology</a>. I'm passionate about staying ahead of the curve when it comes to the latest technologies and spend my days breaking and creating code. Currently, I am a proud core team member of <a href="#">DSCUIT</a> and an active member of the <a href="#">IEEE</a> chapter.
+<p align="left">Haloo! I'm Rizky Fahrezi, a high school student majoring in software engineering at <a href="#">SMK Swadhipa 2 Natar</a>. I'm passionate about staying ahead of the curve when it comes to the latest technologies and spend my days breaking and creating code. Currently, I am a proud core team member of <a href="#">UNIX</a> and an active member of the <a href="#">Kodingkeun Community</a></a> chapter.
 
-When I'm not knee-deep in tech work, I like to unwind by playing football, gaming with my friends, or spending quality time with my furry companions. As an advocate for cybersecurity, I am always looking for new ways to protect people's online lives from the dangers of cybercrime.
+When I'm not knee-deep in tech work, I like to unwind by playing Mobile Legends, gaming with my friends, or spending quality time with my furry companions. As an advocate for cybersecurity, I am always looking for new ways to protect people's online lives from the dangers of cybercrime.
 
-Let's connect and chat about all things tech and cybersecurity - I'd love to hear from you!</br>
+Let's connect and chat about all things tech and web developing - I'd love to hear from you!</br>
 
 </p>
 
 **Tech I am using and learning:**
 
-![My Skills](https://skillicons.dev/icons?i=js,bash,mysql,html,css,git,php,wordpress,github,bootstrap,replit,vscode,&theme=dark&perline=7)
+![My Skills](https://skillicons.dev/icons?i=js,bash,mysql,html,css,git,php,wordpress,github,bootstrap,replit,vscode,&theme=dark&perline=9)
 
 **Connect with me:**
 
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/rzkyfhrzi21/)
-[![My Skills](https://skillicons.dev/icons?i=php)](https://github.com/rzkyfhrzi21#)
-[![My Skills](https://skillicons.dev/icons?i=replit)](https://replit.com/@rzkyfhrzi21/)
-[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://github.com/rzkyfhrzi21#)
 <a href="https://rzkyfhrzi21.gihub.io"><img href="https://rzkyfhrzi21.gihub.io" src="https://i.imgur.com/JXfZmZy.png" alt="Portfolio" width="50"></a>
+[![My Skills](https://skillicons.dev/icons?i=replit)](https://replit.com/@rzkyfhrzi21/)
 
 <details>
   <summary>More ⚡</summary>
@@ -51,6 +49,6 @@ Let's connect and chat about all things tech and cybersecurity - I'd love to hea
 
 <div align="center">
 
-![snake gif](https://github.com/rzkyfhrzi21/rzkyfhrzi21/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/rzkyfhrzi21/rzkyfhrzi21/blob/output/github-contribution-grid-snake.svg)
 
 </div>
