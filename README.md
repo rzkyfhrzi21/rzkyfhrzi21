@@ -18,9 +18,9 @@ Let's connect and chat about all things tech and cybersecurity - I'd love to hea
 **Connect with me:**
 
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/rzkyfhrzi21/)
-[![My Skills](https://skillicons.dev/icons?i=php)](https://#)
+[![My Skills](https://skillicons.dev/icons?i=php)](https://github.com/rzkyfhrzi21#)
 [![My Skills](https://skillicons.dev/icons?i=replit)](https://replit.com/@rzkyfhrzi21/)
-[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://#)
+[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://github.com/rzkyfhrzi21#)
 <a href="https://rzkyfhrzi21.gihub.io"><img href="https://rzkyfhrzi21.gihub.io" src="https://i.imgur.com/JXfZmZy.png" alt="Portfolio" width="50"></a>
 
 <details>
@@ -51,6 +51,6 @@ Let's connect and chat about all things tech and cybersecurity - I'd love to hea
 
 <div align="center">
 
-![snake gif](https://github.com/rzkyfhrzi21/rzkyfhrzi21/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/rzkyfhrzi21/rzkyfhrzi21/output/github-contribution-grid-snake.svg)
 
 </div>
