@@ -105,3 +105,7 @@ Let's connect and chat about all things tech and web developing - I'd love to he
 
 <h2 align="left">Support My Work:</h2>
 <p><a href="https://saweria.co/rzkyfhrzi21" target="_blank"><img align="left" src="https://pustakabukubekas.files.wordpress.com/2021/09/sawer.png" height="50" width="210" alt="rzkyfhrzi21" /></a></p><br><br>
+
+<!-- References -->
+<!-- https://github.com/samipak458/samipak458 -->
+<!-- https://github.com/cocomo29/cocomo29 -->
