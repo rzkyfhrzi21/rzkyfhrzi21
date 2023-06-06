@@ -13,14 +13,15 @@ Let's connect and chat about all things tech and cybersecurity - I'd love to hea
 
 **Tech I am using and learning:**
 
-![My Skills](https://skillicons.dev/icons?i=js,bash,mysql,html,css,git,github,bootstrap,replit,vscode,&theme=dark&perline=9)
+![My Skills](https://skillicons.dev/icons?i=js,bash,mysql,html,css,git,php,wordpress,github,bootstrap,replit,vscode,&theme=dark&perline=9)
 
 **Connect with me:**
 
-[![My Skills](https://skillicons.dev/icons?i=facebook)](https://facebook.com/rzkyfhrzx21/)
-[![My Skills](https://skillicons.dev/icons?i=replit)](https://replit.com/@rzkyfhrzi21/)
-<a href="https://rzkyfhrzi21.github.io/"><img href="https://rzkyfhrzi21.github.io/" src="https://i.imgur.com/JXfZmZy.png" alt="Portfolio" widtPortfolio" width="50"></a>
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/rzkyfhrzi21/)
+[![My Skills](https://skillicons.dev/icons?i=php)](https://#)
+[![My Skills](https://skillicons.dev/icons?i=replit)](https://replit.com/@rzkyfhrzi21/)
+[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://#)
+<a href="https://rzkyfhrzi21.gihub.io"><img href="https://rzkyfhrzi21.gihub.io" src="https://i.imgur.com/JXfZmZy.png" alt="Portfolio" width="50"></a>
 
 <details>
   <summary>More ⚡</summary>
@@ -37,7 +38,7 @@ Let's connect and chat about all things tech and cybersecurity - I'd love to hea
 
 <p><b>Holopin Badges</b></p>
 
-[![An image of @rzkyfhrzi21's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@rzkyhxr21#)](https://www.holopin.io/@rzkyhxr21)
+[![An image of @rzkyfhrzi21's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.me/rzkyhxr21)](https://www.holopin.io/@rzkyhxr21)
 
 <details>
 <summary><b>-_-</b></summary>
@@ -50,6 +51,6 @@ Let's connect and chat about all things tech and cybersecurity - I'd love to hea
 
 <div align="center">
 
-![snake gif](https://github.com/rzkyfhrzi21/rzkyfhrzi21/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/rzkyfhrzi21/blob/output/github-contribution-grid-snake.svg)
 
 </div>
