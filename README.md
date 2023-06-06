@@ -22,14 +22,10 @@ Let's connect and chat about all things tech and web developing - I'd love to he
 [![My Skills](https://skillicons.dev/icons?i=replit)](https://replit.com/@rzkyfhrzi21/)
 
 <details>
-<summary><b>-_-</b></summary>
+  <summary>More ⚡</summary>
 <div align="center">
-![rickroll](https://www.icegif.com/wp-content/uploads/rickroll-icegif-4.gif)
-</details>
-</div>
-
-<div align="center">
-<p align="center"> 📊 My Github Stats</p>
+<!-- <p align="center"> 📊 My Github Stats</p> -->
+<p align="center"> 
 </br></br>
 <p><b>Profile Views</b></p>
 	<img src="https://profile-counter.glitch.me/%7Brzkyfhrzi21%7D/count.svg"> </br></br>
@@ -37,7 +33,16 @@ Let's connect and chat about all things tech and web developing - I'd love to he
     <img src="https://github-readme-stats.vercel.app/api?username=rzkyfhrzi21&theme=midnight-purple"> </br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rzkyfhrzi21&theme=midnight-purple"> </br></br>
 </p>
+</details>
+<details>
+<summary><b>-_-</b></summary>
 
+![rickroll](https://www.icegif.com/wp-content/uploads/rickroll-icegif-4.gif)
+
+</details>
+</div>
+
+<div align="center">
 <p><b>Holopin Badges</b></p>
 
 [![An image of @rzkyfhrzi21's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.me/rzkyhxr21)](https://www.holopin.io/@rzkyhxr21)
