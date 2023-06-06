@@ -35,7 +35,7 @@ Let's connect and chat about all things tech and web developing - I'd love to he
 
   <details>
     <summary><b>-_-</b></summary>
-    ![rickroll](https://www.icegif.com/wp-content/uploads/rickroll-icegif-4.gif)
+    [![rickroll](https://www.icegif.com/wp-content/uploads/rickroll-icegif-4.gif)]
   </details>
   </div>
 </details>
