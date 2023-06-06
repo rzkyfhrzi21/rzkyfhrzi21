@@ -23,12 +23,12 @@ Let's connect and chat about all things tech and web developing - I'd love to he
 
 <div align="center">
 
-<details>
+<!-- <details>
 <summary><b>-_-</b></summary>
 
 ![rickroll](https://www.icegif.com/wp-content/uploads/rickroll-icegif-4.gif)
 
-</details>
+</details> -->
 
 <h1>Projects 💻</h1>
 <table bordercolor="#66b2b2">
@@ -46,7 +46,7 @@ Let's connect and chat about all things tech and web developing - I'd love to he
           <a href="https://github.com/rzkyfhrzi21/app-linktree" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
           </a>  
-          <a href="linktree.rzkyfhrzi21.repl.co/" target="_blank">
+          <a href="https://linktree.rzkyfhrzi21.repl.co/" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
           </a>
       </p>
@@ -64,7 +64,7 @@ Let's connect and chat about all things tech and web developing - I'd love to he
           <a href="https://github.com/rzkyfhrzi21/main-yuk" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
           </a>  
-          <a href="main-yuk.rzkyfhrzi21.repl.co" target="_blank">
+          <a href="https://main-yuk.rzkyfhrzi21.repl.co" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
           </a>
       </p>
@@ -77,14 +77,14 @@ Let's connect and chat about all things tech and web developing - I'd love to he
 
   <table>
   <tr>
-       <p><b>Profile Views</b></p>
-        <img src="https://profile-counter.glitch.me/%7Brzkyfhrzi21%7D/count.svg"></br></br>
+  <p><b>Profile Views</b></p>
+  <img src="https://profile-counter.glitch.me/%7Brzkyfhrzi21%7D/count.svg"></br></br>
 
   <td><img src="https://github-readme-stats.vercel.app/api?username=rzkyfhrzi21&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rizky Fahrezi" />
     
   <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rzkyfhrzi21&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rizky Fahrezi" /></td>
   </tr>
-</table>
+  </table>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rzkyfhrzi21&theme=dark" alt="Samiullah" /></p>
 
