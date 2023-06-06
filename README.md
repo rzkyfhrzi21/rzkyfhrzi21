@@ -13,7 +13,7 @@ Let's connect and chat about all things tech and cybersecurity - I'd love to hea
 
 **Tech I am using and learning:**
 
-![My Skills](https://skillicons.dev/icons?i=js,bash,mysql,html,css,git,php,wordpress,github,bootstrap,replit,vscode,&theme=dark&perline=9)
+![My Skills](https://skillicons.dev/icons?i=js,bash,mysql,html,css,git,php,wordpress,github,bootstrap,replit,vscode,&theme=dark&perline=7)
 
 **Connect with me:**
 
@@ -51,6 +51,6 @@ Let's connect and chat about all things tech and cybersecurity - I'd love to hea
 
 <div align="center">
 
-![snake gif](https://github.com/rzkyfhrzi21/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/rzkyfhrzi21/rzkyfhrzi21/blob/output/github-contribution-grid-snake.svg)
 
 </div>
