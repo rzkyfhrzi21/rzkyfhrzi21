@@ -21,13 +21,14 @@ Let's connect and chat about all things tech and web developing - I'd love to he
 <a href="https://rzkyfhrzi21.gihub.io"><img href="https://rzkyfhrzi21.gihub.io" src="https://i.imgur.com/JXfZmZy.png" alt="Portfolio" width="50"></a>
 [![My Skills](https://skillicons.dev/icons?i=replit)](https://replit.com/@rzkyfhrzi21/)
 
+<div align="center">
 <details>
   <summary>More ⚡</summary>
-  <div align="center">
+
     <p align="center">
     </br></br>
     <p><b>Profile Views</b></p>
-	    <img src="https://profile-counter.glitch.me/%7Brzkyfhrzi21%7D/count.svg"></br></br>
+        <img src="https://profile-counter.glitch.me/%7Brzkyfhrzi21%7D/count.svg"></br></br>
       <p><b>Github Stats</b></p>
       <img src="https://github-readme-stats.vercel.app/api?username=rzkyfhrzi21&theme=midnight-purple"></br>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=rzkyfhrzi21&theme=midnight-purple"></br></br>
@@ -37,7 +38,6 @@ Let's connect and chat about all things tech and web developing - I'd love to he
     <summary><b>-_-</b></summary>
     ![rickroll](https://www.icegif.com/wp-content/uploads/rickroll-icegif-4.gif)
   </details>
-  </div>
 </details>
 
 <h1>Projects 💻</h1>
@@ -80,46 +80,6 @@ Let's connect and chat about all things tech and web developing - I'd love to he
     </td>
   </tr>
   
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Candy Store</h3>
-      <br />
-        <a target="_blank" href="https://candystore.samimunir2002.repl.co/">
-          <img src="Images/Candy.png" width="100%" alt="Candy"/>
-        </a>
-      <br />
-        <p align="center">
-          <br>
-  <a href="https://github.com/samipak458/CandyStore" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://candystore.samimunir2002.repl.co/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Candy Store : I created a responsive website called “Candy” where you can see various products (Chocolates and different types of candies). You can place an order.</p>
-    </td>
-<td width="50%" valign="top">
-      <h3 align="center">Fitness Club</h3>
-        <br />
-        <a target="_blank" href="https://fitnessclub.samimunir2002.repl.co/">
-          <img src="Images/Fitness.png" width="100%" alt="Fitness Club"/>
-        </a>
-        <br />
-        <p align="center">
-          <br>
-  <a href="https://github.com/samipak458/Gym-Website" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://fitnessclub.samimunir2002.repl.co/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3 & Javascript</strong> - Fitness Club : This is user-friendly website where you can see details about gym, trainers, facility, class schedule and monthly packages.</p>
-    </td>
-  </tr>
-
-   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
       <br />
@@ -158,20 +118,19 @@ Let's connect and chat about all things tech and web developing - I'd love to he
   <table>
   <tr>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=rzkyfhrzi21&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rizky Fahrezi" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rzkyfhrzi21&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rizky Fahrezi" /></td>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=rzkyfhrzi21&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rizky Fahrezi" />
+    
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rzkyfhrzi21&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rizky Fahrezi" /></td>
   </tr>
 </table>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rzkyfhrzi21&theme=dark" alt="Samiullah" /></p>
-  </div>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rzkyfhrzi21&theme=dark" alt="Samiullah" /></p>
 
 # 📈 Contribution Graph
 
 [![Rizky Fahrezi github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rzkyfhrzi21&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- </div>
+</div>
 
 # 🏆 HacktoberFest 2022 Badges
 
